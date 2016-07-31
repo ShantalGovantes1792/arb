@@ -1,0 +1,235 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	border: 0px;
+	box-sizing: border-box;
+	font-family: 'Comfortaa', cursive;
+}
+
+body{
+	font-family: 'Helvetica Neue', helvetica, arial, sans-serif;
+}
+
+.header{
+	background-position: cover;
+	background-repeat: no-repeat;
+	background-position: center center;
+	height: 500px;
+}
+
+.topbar{
+	padding: 2rem;
+}
+
+.topbar .logo-group{
+
+}
+
+.topbar .logo-group .logo{
+	width: 50%;
+	margin-top: -40px;
+}
+
+.boton-registrate{
+	text-decoration: none;
+	padding-top: 15px;
+	padding-left: 40px;
+	margin-left: 80px;
+	width: 200px;
+	height: 50px;
+	background-color: #0CF8B7;
+	border-radius: 20px;
+	color: white;
+}
+
+.topbar .menu-group{
+	
+}
+
+.topbar .menu-group .menu{
+	list-style-type: none;
+	
+
+}
+
+.topbar .menu-group .menu li{
+	display: inline-block;
+	padding-right: 25px;
+	padding-left: 
+}
+#Fondo{
+	background-color: white;
+	height: 90px;
+
+}
+#Fondo1{
+	background-color: #E6E6E6;
+	height: auto;
+	padding-top: 80px;
+	padding-bottom: 50px;
+	margin-top: -80px;
+}
+#Fondo2{
+	/*background-color: #CCCCCC;*/
+	height: auto;
+}
+#Fondo3{
+	background-color: #0080AF;
+	height: auto;
+	padding-bottom: 60px;
+}
+#Fondo4{
+	height: 300px;
+	background-color: #CCCCCC;
+}
+.Lefth{
+	text-align:left;
+	padding-left:200px;  
+}
+/*
+parte shantal*/
+a{
+	text-decoration: none;
+}
+
+#aire-p{
+	width: 10%;
+	/*height: 50px;*/
+	display: inline-block;
+}
+
+.texo-somos{
+	/*padding: 50px 100px;*/
+	text-align: center;
+	color: #0080AF;
+	font-size: 40px;
+
+}
+.enlace-menu{
+	font-weight: bolder;
+
+}
+.center-block {
+  margin-left: 100px;
+  margin-right: 100px;
+  text-align: center;
+}
+h1{
+	font-variant: small-caps;
+	font-weight: bolder;
+	color: #0CF8B7;
+	font-size: 60px;
+}
+.img-reg{
+	width: 20%;
+	/*height: 20%;*/
+	margin: 0px 0px 20px 220px;
+
+}
+.img-change img:hover{
+	-webkit-transform: scale(1.5);
+    transform: scale(1.5),
+}
+.topp{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+h5{
+	color: #0080AF;
+	font-size: 20px;
+}
+.center{
+	text-align: center;
+
+}
+.textos-apa{
+	padding: 0px 40px 0px 40px;
+}
+.text-align{
+	text-align : justify;
+	margin-top: 30px;
+}
+.margin-botom-proceso{
+margin-top: 50px;
+margin-bottom: 60px;
+}
+.margin-botom-proceso2{
+margin-bottom: 20px;
+}
+.white{
+	color: white;
+
+}
+.hr-w{
+	border: 0px;
+	border-top: 1px solid white;
+	border-bottom: 1px solid white;
+	height: 0%;
+	width: 100%;
+
+
+}
+.figuras>a>img{
+	display:inline-block;
+	height:50px;
+	width:50px;
+	padding: 5px;
+	left: 200px;
+}
+.figuras{
+	position: relative;
+	padding-left: 100px;
+}
+footer{
+	padding-top: 20px;
+	padding-bottom: 20px;
+	padding-left: 90px;
+}
+/* Para botoes en 3d.button {
+	transform-style: preserve-3d;
+}
+.button {
+	top: -100%;
+	left: 0px;
+	width: 150%;
+	position: absolute;
+	background: gray;
+	border-radius: 5px;
+	content: 'Ingresa';
+	transform-origin: left bottom;
+	transform: rotateX(90deg); 
+}
+.button:hover {
+	transform-origin: center bottom;
+	transform: rotateX(-90deg) translateY(100%);
+}
+ */
+ fieldset{
+	margin-left: 520px;
+	margin-right: 420px;
+}
+.Usuario{
+	width: 155px;
+	height: 155px;
+}
+#campo6{
+	margin-left:355px;
+}
+.Facebook{
+	width: 30px;
+	height: 30px;	
+}
+.borde{
+	 width: 5px;
+	 height: 5px;
+	 background-color: solid grey;
+}
+.fondogris{
+
+}
+.texto-org{
+	font-size: 40px;
+}
+.marg{
+	color: #0080AF;
+}
